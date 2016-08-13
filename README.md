@@ -4,8 +4,17 @@ Cookie manager for react native.
 
 ### Installation
 
-1. `npm install react-native-cookies`
+1. `npm install --save react-native-cookies`
 2. `rnpm link react-native-cookies` - (run `npm install -g rnpm` if required)
+3. Om nom nom nom cookies.
+
+#### Using podspec
+
+1. `npm install --save react-native-cookies`
+2. Add this to your Podfile
+  ```
+  pod 'react-native-sqlite-storage', :path => './node_modules/react-native-sqlite-storage'
+  ```
 3. Om nom nom nom cookies.
 
 ### Usage
