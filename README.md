@@ -78,6 +78,15 @@ protected List<ReactPackage> getPackages() {
 
 
 
+#### Using podspec
+
+1. `npm install --save react-native-cookies`
+2. Add this to your Podfile
+  ```
+  pod 'react-native-sqlite-storage', :path => './node_modules/react-native-sqlite-storage'
+  ```
+3. Om nom nom nom cookies.
+
 ### Usage
 
 ```javascript
